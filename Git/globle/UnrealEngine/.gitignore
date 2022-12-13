@@ -1,4 +1,4 @@
-#Unreal Engine Cash folder
+#Unreal Engine Cache folder
 Binaries
 Build
 Config
@@ -7,7 +7,7 @@ Intermediate
 package
 Saved
 
-#Visual Studio Cash folder
+#Visual Studio Cache folder
 .vs
 *.exe
 

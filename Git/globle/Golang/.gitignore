@@ -1,0 +1,7 @@
+#Visual Studio Code Cache folder
+.vscode
+
+#Project build file
+*.exe
+
+#Custom ignore properties
